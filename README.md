@@ -1,2 +1,7 @@
-# Find-FieldName-in-Reports
-Find a FieldName used in Salesforce Reports
+# Find FieldName used in Reports
+
+When cleaning up unused CustomFields in SObjects, Salesforce warns if it is used for Workflows, Triggers and within Apex code. However it does not warn which Reports use the CustomField.
+
+This Visualforce pages allows a quick search within the Reports metadata to determine if a particular FieldName is currently being used and will return the list of Reports <apex:PageBlockTable>
+
+
