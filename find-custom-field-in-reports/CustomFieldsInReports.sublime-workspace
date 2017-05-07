@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"assertEquals()"
+			],
+			[
+				"Find",
+				"findColumnName"
+			],
+			[
+				"find",
+				"findColumnCtrl"
+			],
+			[
+				"report",
+				"reportId"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"colum",
+				"columnsStr"
+			],
+			[
+				"Test",
+				"TestTasks"
+			],
+			[
+				"closed",
+				"closedOpps"
+			],
+			[
+				"Oppo",
+				"Opportunity"
+			],
+			[
+				"opp",
+				"Opportunity"
+			],
+			[
+				"Index",
+				"IndexRoute"
+			],
+			[
+				"compon",
+				"componentWillUnmount\tLife Cycle Method"
+			],
+			[
+				"Ow",
+				"ownerId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/FindColumnInReportsControllerTest.cls",
+			"settings":
+			{
+				"buffer_size": 1756,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/TestApex.cls",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/FindColumnInReportsController.cls",
+			"settings":
+			{
+				"buffer_size": 1580,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pca",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 284.0,
+		"history":
+		[
+			"ls",
+			"\\q",
+			"quit",
+			"close",
+			"exit",
+			"terminal",
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/config",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/pages"
+	],
+	"file_history":
+	[
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes/FindColumnInReports.cls",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes/FindColumnInReportsController.cls-meta.xml",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes/TestApex.cls",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes/FindColumnInReportsController.cls",
+		"/users/bonhomieio/Projects/SF/CustomFieldsInReports/src/classes/MyContactListController.cls",
+		"/users/bonhomieio/Projects/SF/BulkApexTriggers/src/package.xml",
+		"/users/bonhomieio/Projects/SF/BulkApexTriggers/src/triggers/ClosedOpportunityTrigger.trigger",
+		"/users/bonhomieio/Projects/SF/BulkApexTriggers/build.xml",
+		"/users/bonhomieio/Projects/SF/LightningApp/Dockerfile",
+		"/users/bonhomieio/Projects/WorkRelated/Full AU/src/classes/TestLeadConvertPage.cls",
+		"/users/bonhomieio/Projects/WorkRelated/firstLightning/src/aura/AccountList/AccountsController.js",
+		"/users/bonhomieio/Projects/WorkRelated/firstLightning/src/aura/AccountList/AccountList.cmp",
+		"/users/bonhomieio/Projects/WorkRelated/firstLightning/src/aura/AllAccounts/AllAccountsController.js",
+		"/users/bonhomieio/Projects/WorkRelated/firstLightning/src/aura/AllAccounts/AllAccounts.app",
+		"/users/bonhomieio/Projects/WorkRelated/firstLightning/src/classes/AccountsController.cls",
+		"/Users/bonhomieio/Projects/reactnative/snapnsend/src/lib/config.js",
+		"/Users/bonhomieio/Downloads/materialize-src/README.md",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/imports/ui/App.jsx",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/imports/client/main.html",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/settings/dev.json",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/serverlogin.txt",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/CHANGELOG.md",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/.meteor/packages",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/imports/server/cron.js",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/client/main.styl",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/server-nginx",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app-deployment/mup.json",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/package.json",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app-deployment/settings.json",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/.gitignore",
+		"/Users/bonhomieio/Projects/meteor/s-chat-app/client/head.html",
+		"/Users/bonhomieio/Projects/meteor/sourcecode/package.json",
+		"/Users/bonhomieio/Downloads/geartrade_io/geartrade_io.ca-bundle",
+		"/Users/bonhomieio/Projects/template/index.html",
+		"/Users/bonhomieio/Projects/meteor/base/README.md",
+		"/Users/bonhomieio/Projects/meteor/base/client/main.html",
+		"/Users/bonhomieio/Projects/meteor/base/.meteor/packages",
+		"/Users/bonhomieio/Projects/meteor/base/imports/startup/client/routes.js",
+		"/Users/bonhomieio/Projects/meteor/base/imports/startup/server/browser-policy.js",
+		"/Users/bonhomieio/Projects/meteor/base/imports/ui/components/app-navigation.js",
+		"/Users/bonhomieio/Projects/nodejs/opportunityWon/routes/index.js",
+		"/Users/bonhomieio/Projects/nodejs/inteygrate/routes/index.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/templates/uploader.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/templates/uploader.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/templates/upload.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/admin/router.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/.meteor/packages",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/modules/_modules.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/server/modules/_modules.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/modules/upload-to-amazon-s3.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/both/methods/insert/files.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/both/modules/check-url-validity.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/photoshot.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/server/photoshot.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/server/slingshot.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/admin/uploader.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/admin/upload.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/common/_modules.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/settings.json",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/.meteor/versions",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/styles/main.scss",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/styles/components/_upload.scss",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/common/accounts/sign-up/components/SignUp.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/styles/components/_layout.scss",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/.meteor/local/build/programs/web.browser/merged-stylesheets.css",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/layout/components/Header.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/styles/components/_header.scss",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/README.md",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/styles/components/_cta.scss",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/package.json",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/imports/helpers/ga.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/layout/components/LandingLayout.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/layout/components/LandingNavigation.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/home/components/Home.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/imports/helpers/routeHelpers.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/layout/components/AppLayout.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/appSite/dashboard/router.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/common/accounts/layout/components/GuestFooter.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/common/accounts/layout/components/LoginLayout.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/.meteor/local/build/programs/server/app/app.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/layout/components/FourOhFour.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/app/marketingSite/layout/components/GitHubRibbon.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/imports/api/Gears.js",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/main.html",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/imports/ui/Gear.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/routes.jsx",
+		"/Users/bonhomieio/Projects/meteor/gtStartup/client/layouts/mainLayout.jsx",
+		"/Users/bonhomieio/Projects/meteor/GearTrade/npm-debug.log",
+		"/Users/bonhomieio/Projects/WorkRelated/BookMeetingApp%20Apex%20Folder%20from%20SC/src/pages/CantDeleteActivity.page",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/bonhomieio/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/bonhomieio/Projects/WorkRelated/BookMeetingApp%20Apex%20Folder%20from%20SC/Sandbox.sublime-project"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"",
+			"/Users/bonhomieio/Projects/meteor/s-chat-app/imports/client",
+			"/Users/bonhomieio/Projects/meteor/s-chat-app/imports",
+			"client,/Users/bonhomieio/Projects/meteor/s-chat-app/imports",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"s-chat-promo",
+			"example.com",
+			"MONGO",
+			"sAlert",
+			"s-alert",
+			"s-grid-top",
+			"grid()",
+			"gr",
+			"sgrid",
+			"stylus",
+			"compile-stylus.js",
+			"#",
+			"compileStylus",
+			"compile-stylus",
+			"bootstrap",
+			"map",
+			"google",
+			"Content-Security-Policy",
+			"background",
+			"theme-switch",
+			"get",
+			"query",
+			"AWSAccessKeyId",
+			"uploader",
+			"flow",
+			"Methods",
+			"Elements",
+			"bg.jpg",
+			"Amatic",
+			"data-reactid",
+			"h1",
+			"startup",
+			"fourseven:scss",
+			"acme ",
+			"g",
+			"footer",
+			"fork",
+			"github",
+			"import",
+			"fork me",
+			"github",
+			"import",
+			")",
+			"filteredTasks",
+			"task",
+			"task\n",
+			">\n",
+			"whsApp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sfchat.xyz",
+			"filteredGears",
+			"gear"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/FindColumnInReportsControllerTest.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/TestApex.cls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/classes/FindColumnInReportsController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 214.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CustomFieldsInReports.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

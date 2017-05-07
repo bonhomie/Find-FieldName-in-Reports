@@ -1,0 +1,29 @@
+<apex:page docType="html-5.0" showHeader="true" sidebar="true" controller="FindColumnInReportsController" >
+<apex:sectionHeader title="Find FieldName in Reports">
+
+</apex:sectionHeader>
+
+<apex:form >
+<apex:pageBlock >
+<label>Find: </label>
+<apex:inputText value="{!findColumnName}" label="Input"/>&nbsp;  
+  <apex:commandButton value="Search Reports" action="{!getReports}"/>  
+  <apex:commandButton value="Clear" action="{!ClearForm}"/>  
+
+<!-- Reports List -->
+
+<apex:pageBlockTable value="{!reportList }" var="rpt" title="Search Results" >
+   <apex:column >  
+      <apex:outputlink value="https://ap1.salesforce.com/{!rpt.Id}" target="_blank">{!rpt.Id}</apex:outputlink>  
+     </apex:column>  
+    <apex:column value="{! rpt.Name }"/>
+    <apex:column value="{! rpt.FolderName }"/>
+    <apex:column value="{! rpt.LastRunDate }"/>
+    <apex:column value="{! rpt.IsDeleted }"/>
+</apex:pageBlockTable>
+
+</apex:pageBlock>
+</apex:form>
+
+
+</apex:page>
