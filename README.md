@@ -4,6 +4,7 @@ When cleaning up unused CustomFields in SObjects, Salesforce warns if it is used
 
 This Visualforce pages allows a quick search within the Reports metadata to determine if a particular FieldName is currently being used and will return the list of Reports in a Visualforce page with link to the Report id.
 
+More information about the Code posted on https://www.sfofthings.com/2017/05/07/determine-reports-using-custom-field/
 
 
 
