@@ -6,5 +6,9 @@ This Visualforce pages allows a quick search within the Reports metadata to dete
 
 More information about the Code posted on https://www.sfofthings.com/2017/05/07/determine-reports-using-custom-field/
 
+Caveat (TODO):
+
+Will update the code to support limits such as 1000 records for apex:PageBlockTable for non read-only
+
 
 
